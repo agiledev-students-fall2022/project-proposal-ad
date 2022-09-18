@@ -2,7 +2,7 @@
 
 ## Contributors
 
-Geon Tack Lee, Yeonie Heo, Jennifer Zheng, Oyungerel Amarsanaa.
+Geon Tack Lee, Yeonie Heo, Jennifer Zheng, Oyungerel Amarsanaa, Nghia Nim.
 ## What?
 
 It is an automated recipe suggester based on the ingredients you have at home. This software will recognize your food ingredients through a quick snapshot and recommend the food you can cook with what you have.
