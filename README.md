@@ -42,7 +42,7 @@ A credit tracking app to keep you and your friends from flaking on appointments!
 
 ## Why?
 
-So often do people (including myself) flake on plans with their friends, family, or even work! Do you ever have that one plan that you and your friends were surely committed to but in the end cannot attend because of a sudden "other commitment"? Looks like your plan wasn't a real commitment afterall. :broken_heart: 
+So often do people (not excluding myself) flake on plans with their friends, family, or even work! Do you ever have that one plan that you and your friends were surely committed to but in the end cannot attend because of a sudden "other commitment"? Looks like your plan wasn't a real commitment afterall. :broken_heart: 
 
 ## For whom?
 
