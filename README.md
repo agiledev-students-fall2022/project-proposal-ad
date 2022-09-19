@@ -48,6 +48,7 @@ So often do people (not excluding myself) flake on plans with their friends, fam
 
 * Anyone who wants to plan something with someone and wants to keep themselves accountable.
 * Event organizers who want to keep their attendance high can invite only people with some minimum amount of credit.
+* People who attend meetings often can prioritize those who have higher credit.
 * Anyone who wants to start building healthy commitment habits.
 
 ## How?
@@ -57,7 +58,7 @@ So often do people (not excluding myself) flake on plans with their friends, fam
 * Users of the app can schedule an event with each other, and in groups, but has to be in advance of at least 24 hours, and can only schedule at most twice per day. 
 * Points will be awarded to those who show up for the event, and vice versa, deducted for those who doesn't or cancel last minute.
 * Show-ups can confirm their arrival using GPS.
-* The amount of points awarded will depend on the number of people attending, punctuality, etc. The function to calculate the point will be logarithmic and capped at some amount (TBD), so higher credit will be much less achievable. Can look at credit functions used by banks for reference.
+* The amount of points awarded will depend on the number of people attending, punctuality, your current credit, etc. The function to calculate the point will be logarithmic and capped at some amount (TBD), so higher credit will be harder to achieve. Can look at credit functions used by banks for reference.
 * Flaking will incur heavy penalties.
 
 ## Scope
